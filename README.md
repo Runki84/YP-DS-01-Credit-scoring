@@ -19,5 +19,5 @@
 <li><b>total_income</b> — ежемесячный доход</li>
 <li><b>purpose</b> — цель получения кредита</li>
 </ul>
-<a href="https://github.com/Runki84/YP-DS-01-Credit-scoring/blob/main/01-Part-1-Credit-scoring.ipynb">Первая часть проекта</a>
+<a href="https://github.com/Runki84/YP-DS-01-Credit-scoring/blob/main/01-Part-1-Credit-scoring.ipynb">Первая часть проекта</a><br>
 <a href="https://github.com/Runki84/YP-DS-01-Credit-scoring/blob/main/01-Part-2-Credit-scoring.ipynb">Вторая часть проекта</a>
